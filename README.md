@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# React Video Player
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+    Video player that fethces video from Youtube and shows videos and descriptions.
 
-### Getting Started
+### Requirements
 
-There are two methods for getting started with this repo.
+    It is required to place your Google APi key into index.js file.
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+### How to isntall
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+    From root folder run: `yarn`
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### How to start
 
-```
-> npm install
-> npm start
-```
+    From root folder run : `yarn start`

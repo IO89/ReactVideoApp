@@ -4,7 +4,7 @@
 
 ### Requirements
 
-    It is required to place your Google APi key into index.js file.
+    It is required to place your Google API key into index.js file.
 
 ### How to isntall
 

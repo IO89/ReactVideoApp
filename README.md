@@ -1,15 +1,15 @@
 # React Video Player
 
-    Video player that fethces video from Youtube and shows videos and descriptions.
+   Video player that fethces video from Youtube and shows videos and descriptions.
 
 ### Requirements
 
-    It is required to place your Google API key into index.js file.
+   It is required to place your Google API key into index.js file.
 
-### How to isntall
+### How to install
 
-    From root folder run: `yarn`
+   From root folder run: `yarn`
 
 ### How to start
 
-    From root folder run : `yarn start`
+   From root folder run : `yarn start`
